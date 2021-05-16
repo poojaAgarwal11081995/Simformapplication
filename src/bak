@@ -1,0 +1,17 @@
+ {/* <div className="radio_input">
+            <div>
+              <input type="radio" id="male" name="gender" value="male" onChange={handleOnchange} />
+              <label for="male">Male</label>
+            </div>
+
+            <div>
+              <input type="radio" id="female" name="gender" value="female" onChange={handleOnchange} />
+              <label for="female">Female</label>
+            </div>
+
+            <div>
+              <input type="radio" id="other" name="gender" value="other" onChange={handleOnchange} />
+              <label for="other">Other</label>
+            </div>
+
+          </div> */}
